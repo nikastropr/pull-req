@@ -1,0 +1,2 @@
+feat2
+feat2 added as new line to the feature2.txt file
